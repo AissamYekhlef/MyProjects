@@ -8,7 +8,8 @@ These are my projects, I have developed in the Web Development Frontend ,Backend
 #### Project N-01 : Psd to HTML Restaurant website
 ##### Decription :
 - Technologies: HTML5, CSS3
-- This project converted to HTML from psd -Photoshop-, it responsive
+- This project converted to HTML from psd -Photoshop-
+- responsive at pc, tablet and phone browzers.
 - You can see in github Full description from [psd-to-html](https://github.com/AissamYekhlef/psd-to-html).
 - Live Preview Project From : [Live Preview](https://aissamyekhlef.github.io/psd-to-html/)
 ***
