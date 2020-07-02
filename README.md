@@ -10,7 +10,7 @@ These are my projects, I have developed in the Web Development Frontend ,Backend
 - Technologies: HTML5, CSS3
 - This project converted to HTML from psd -Photoshop-, it responsive
 - You can see in github Full description from [psd-to-html](https://github.com/AissamYekhlef/psd-to-html).
-- Live Preview Project From : [Live Preview](https://github.com/AissamYekhlef/psd-to-html)
+- Live Preview Project From : [Live Preview](https://aissamyekhlef.github.io/psd-to-html/)
 ***
 ## Backend projects : 
 
