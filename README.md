@@ -11,22 +11,24 @@ These are my projects, I have developed in the Web Development Frontend ,Backend
 ***
 ## _Backend-projects:_ 
 
-### Technolegies - python, Flask, RESTful 
+### Technolegies - Python, Flask, RESTful, API
 #### Project N-01 : Fyyur-app  musical venue and artist  bookings of shows site
 ##### Decription :
 - This project From Udacity Nanodegree
 - You can see in github Full description from [Fyyur-app](https://github.com/AissamYekhlef/FSND/tree/master/projects/01_fyyur/starter_code).
 
-#### Project N-02 : trivia app and play the game Questions Quizz
+#### Project N-02 : Trivia app and play the game Questions Quizz
 ##### Decription :
 - This project From Udacity Nanodegree
 - You can see in github Full description from [Trivia-api-github](https://github.com/AissamYekhlef/FSND/tree/master/projects/02_trivia_api/starter).
+
 #### Project N-03 : Coffee Shop Full Stack 
 ##### Decription :
 - This project From Udacity Nanodegree
-- You can see in github Full description from [Trivia-api-github](https://github.com/AissamYekhlef/FSND/tree/master/projects/03_coffee_shop_full_stack/starter_code).
+- You can see in github Full description from [coffee-shop-api](https://github.com/AissamYekhlef/FSND/tree/master/projects/03_coffee_shop_full_stack/starter_code).
 
 ### Technolegies - PHP, Laravel, Bootstrap, HTML5
+
 #### Project N-02 : Online Courses - Like Udemy -
 ##### Decription :
 - This project created with Laravel for Learning Online -Like Udemy platform-
