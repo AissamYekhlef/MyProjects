@@ -32,7 +32,7 @@ These are my projects, I have developed in the Web Development Frontend ,Backend
 #### Project N-04 : Capstone Music & Actors API 
 ##### Decription :
 - This project From Udacity Nanodegree
-- You can see in github Full description from [coffee-shop-api](https://github.com/AissamYekhlef/capston-project-fsnd).
+- You can see in github Full description from [coffe-shop-api](https://github.com/AissamYekhlef/capston-project-fsnd).
 - Live Preview
 
 ### Technolegies - PHP, Laravel, Bootstrap
