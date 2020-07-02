@@ -1,7 +1,7 @@
 # My Websites Projects :
 These are my projects, I have developed in the Web Development Frontend ,Backend .
 
-## Frontend projects :
+## _Frontend-projects:_
 ### Technolegies - HTML5, CSS3 -
 #### Project N-01 : Psd to HTML Restaurant website
 ##### Decription :
@@ -10,7 +10,7 @@ These are my projects, I have developed in the Web Development Frontend ,Backend
 
 
 
-## _Backend-projects: _ 
+## _Backend-projects:_ 
 ### Technolegies - python, Flask, RESTful 
 #### Project N-01 : Fyyur-app  musical venue and artist  bookings of shows site
 ##### Decription :
