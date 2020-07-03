@@ -19,7 +19,7 @@ These are my projects, I have developed in the Web Development Frontend, Backend
 #### Project N-01 : Fyyur-app  musical venue and artist  bookings of shows site
 ##### Decription :
 - This project From Udacity Nanodegree
-- You can see in github Full description from [Fyyur-app](https://github.com/AissamYekhlef/FSND/tree/master/projects/01_fyyur/starter_code).
+- You can see in github Full description from [Fyyur-app-github](https://github.com/AissamYekhlef/FSND/tree/master/projects/01_fyyur/starter_code).
 
 #### Project N-02 : Trivia app and play the game Questions Quizz
 ##### Decription :
@@ -29,12 +29,12 @@ These are my projects, I have developed in the Web Development Frontend, Backend
 #### Project N-03 : Coffee Shop Full Stack 
 ##### Decription :
 - This project From Udacity Nanodegree
-- You can see in github Full description from [coffee-shop-api](https://github.com/AissamYekhlef/FSND/tree/master/projects/03_coffee_shop_full_stack/starter_code).
+- You can see in github Full description from [coffee-shop-api-github](https://github.com/AissamYekhlef/FSND/tree/master/projects/03_coffee_shop_full_stack/starter_code).
 
 #### Project N-04 : Capstone Music & Actors API 
 ##### Decription :
 - This project From Udacity Nanodegree
-- You can see in github Full description from [capstone-music-api-project](https://github.com/AissamYekhlef/capston-project-fsnd).
+- You can see in github Full description from [capstone-music-api-project-github](https://github.com/AissamYekhlef/capston-project-fsnd).
 - Live Preview
 
 ### Technolegies - PHP, Laravel, Bootstrap
@@ -42,5 +42,5 @@ These are my projects, I have developed in the Web Development Frontend, Backend
 #### Project N-01 : Online Courses - Like Udemy -
 ##### Decription :
 - This project created with Laravel for Learning Online -Like Udemy platform-
-- You can see in github Full description from [Mobidal-Formation-site](https://github.com/AissamYekhlef/FormationsOnline).
+- You can see in github Full description from [Mobidal-Formation-site-github](https://github.com/AissamYekhlef/FormationsOnline).
 - [Live Preview](http://mobidal-formations.herokuapp.com/)
