@@ -39,7 +39,7 @@ These are my projects, I have developed in the Web Development Frontend, Backend
 
 ### Technolegies - PHP, Laravel, Bootstrap
 
-#### Project N-01 : Online Courses - Like Udemy -
+#### Project N-01 : Online Courses - Like Udemy Platform -
 ##### Decription :
 - This project created with Laravel for Learning Online -Like Udemy platform-
 - You can see in github Full description from [Mobidal-Formation-site-github](https://github.com/AissamYekhlef/FormationsOnline).
